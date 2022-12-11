@@ -5,7 +5,7 @@
 Setelah selesai mendownload, extract folder dan buka menggunakan vscode. Setelah itu buka terminal cli (ctrl+`) dan ketikan
 
 ```bash
-  npm installl
+  npm install
 ```
 kemudian buka website secara local menggunakan perintah
 
